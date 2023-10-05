@@ -1,1 +1,1 @@
-# kristina.pingpong
+# kristina.pingpong.py
